@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	
+    <string name="app_name">BMIL Probability Wheel</string>
+	<string name="SHOW">SHOW</string>
+	<string name="Text_Field">Enter Label</string>
+</resources>
